@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScoreBoardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-22T21:58:06" hostname="gkadiri01.local" time="0.089">
+  <properties/>
+  <testcase name="testFinishGame()" classname="ScoreBoardTest" time="0.089"/>
+  <system-out><![CDATA[choose the option to remove the match from scoreBoard
+1, ITALY-SPAIN
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
